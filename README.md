@@ -1,2 +1,2 @@
 # reactapp
-A Tic-Tac-Toe game in React.
+A Tic-Tac-Toe tutorial game in React.
